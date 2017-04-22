@@ -1,4 +1,7 @@
-# test coverage for  [asterisk-manager (v0.1.15)](https://github.com/pipobscure/NodeJS-AsteriskManager)  [![npm package](https://img.shields.io/npm/v/npmtest-asterisk-manager.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-asterisk-manager) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-asterisk-manager.svg)](https://travis-ci.org/npmtest/node-npmtest-asterisk-manager)
+# npmtest-asterisk-manager
+
+#### basic test-coverage for  [asterisk-manager (v0.1.15)](https://github.com/pipobscure/NodeJS-AsteriskManager)  [![npm package](https://img.shields.io/npm/v/npmtest-asterisk-manager.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-asterisk-manager) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-asterisk-manager.svg)](https://travis-ci.org/npmtest/node-npmtest-asterisk-manager)
+
 #### A node.js module for interacting with the Asterisk Manager API.
 
 [![NPM](https://nodei.co/npm/asterisk-manager.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/asterisk-manager)
@@ -68,7 +71,8 @@
         "type": "git",
         "url": "git+https://github.com/pipobscure/NodeJS-AsteriskManager.git"
     },
-    "version": "0.1.15"
+    "version": "0.1.15",
+    "bin": {}
 }
 ```
 
